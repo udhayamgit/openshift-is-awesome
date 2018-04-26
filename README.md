@@ -19,7 +19,7 @@ Simple SOLR Demo | https://github.com/dudash/openshiftexamples-solrdemo | Exampl
 Custom Hawkular Metrics | https://github.com/dudash/openshiftexamples-customhawkularmetrics | Example | TBD
 ZNC on OpenShift | https://github.com/dudash/openshift-znc | App | TBD
 CICD Pipeline | https://github.com/dudash/openshiftexamples-cicdpipeline | Example | TBD
-Node.js | MongoDB | https://github.com/dudash/openshiftexamples-nodemongo | Example | TBD
+Node.js + MongoDB | https://github.com/dudash/openshiftexamples-nodemongo | Example | TBD
 VS Code Extension | https://github.com/dudash/openshift-vscode-extension | Extension | TBD
 OpenShift + Docker + SOLR | https://github.com/dudash/openshift-docker-solr | Container Image | TBD
 OpenShift Workshops | https://github.com/dudash/openshift-workshops | Workshop | TBD
