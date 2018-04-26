@@ -4,7 +4,7 @@ A list of awesome OpenShift things.
 ## Local (@dudash) Containers and OpenShift Repos Index
 Name | Link | Type | Description
 ------------ | ------------- | ------------- | -------------
-CICD Jenkins Pipeline | https://github.com/dudash/openshiftexamples-cicdpipeline | Example | TBD
+CICD Jenkins Pipeline | https://github.com/dudash/openshiftexamples-cicdpipeline | Example | Simple example of a software pipeline to deploy a webapp showcasing the tight intergration between Jenkins and OpenShift.
 OpenShift Autoscaling | https://github.com/dudash/openshiftexamples-autoscaling | Example | TBD
 OpenShift Workshops | https://github.com/dudash/openshift-workshops | Workshop | TBD
 CandV | https://github.com/dudash/candv | Full App | TBD
