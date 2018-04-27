@@ -1,6 +1,22 @@
 # Openshift is awesome
 A list of awesome OpenShift things.
 
+## Learning Resources
+## Examples / Demos
+## Full Apps
+## Source to Image
+## CI/CD and Pipelines
+## DevOps
+## Container Images Made for OpenShift
+## As-a-Service on OpenShift
+## IDEs and Toolkits
+## CLI Tools
+## Extensions / AddOns
+## Integrations
+## Reference Architectures
+## Clouds IaaS Related
+## Social
+
 ## Local (@dudash) Containers and OpenShift Repos Index
 Name | Link | Type | Description
 ------------ | ------------- | ------------- | -------------
