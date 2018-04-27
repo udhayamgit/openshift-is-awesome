@@ -1,6 +1,9 @@
 # Openshift is awesome
-A list of awesome OpenShift things.
+The plan is to curate and list awesome OpenShift things.
 
+TODO refactor this to use https://github.com/sindresorhus/awesome
+
+# Categories
 ## Learning Resources
 ## Examples / Demos
 ## Full Apps
@@ -16,7 +19,6 @@ A list of awesome OpenShift things.
 ## Reference Architectures
 ## Clouds IaaS Related
 ## Social
-
 ## Local (@dudash) Containers and OpenShift Repos Index
 Name | Link | Type | Description
 ------------ | ------------- | ------------- | -------------
